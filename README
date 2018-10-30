@@ -1,7 +1,7 @@
 Shirt
 =====
 
-Shirt is a simple Unix shell written in pure Ruby. It takes inspiration from bash and is written mostly for educational purposes.
+Shirt is a simple Unix shell written in pure Ruby. It is inspired by bash; written mostly for educational purposes.
 
 It was written over a series of blog posts on http://jstorimer.com.
 
